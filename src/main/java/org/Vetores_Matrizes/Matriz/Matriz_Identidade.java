@@ -2,7 +2,7 @@ package org.Vetores_Matrizes.Matriz;
 
 public class Matriz_Identidade {
     public static void main(String[] args) {
-        //Contrua uma matriz Identidade I=3 (apenas os valores diagonais são = 1) todos os outros são zerp
+        //Contrua uma matriz Identidade I=3 (apenas os valores diagonais são = 1) todos os outros são zero
         int i, j;
         int I[][] = new int[3][3];
 
